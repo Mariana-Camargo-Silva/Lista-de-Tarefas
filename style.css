@@ -1,0 +1,43 @@
+@charset "utf-8";
+@font-face {
+    font-family: font1;
+    src: url(fonts/Bouncy-Black-PERSONAL_USE_ONLY.otf);
+}
+ 
+body{
+    background-image: url(https://i.pinimg.com/originals/d6/32/ce/d632ceca1e56329813837159c1f405cb.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    margin-top: 150px;
+
+}
+
+h1{
+    font-size: 50px;
+    font-family: font1;
+    text-shadow: 4px 5px 4px white;
+}
+
+footer{
+    margin-top: 450px;
+   font-style: italic;
+   font-size: 20px;
+   
+}
+
+input{
+   font-size: 20px;
+}
+
+button{
+    font-size: 20px;
+}
+
+#taskList{
+    font-size: 30px;
+}
+
+
+
+
